@@ -1,11 +1,11 @@
 ---
 title: "Admongrel, Delivering Another Successful Addressable TV Campaign!"
-date: 2019-04-08T16:16:35-05:00
+date: 2019-03-08T16:16:35-05:00
 description: "Admongrel enables another successful cross device campaign!"
 categories: ["Admongrel"]
 featuredImage: "img/bmw"
 dropCap: true
-displayInMenu: false
+displayInMenu: true
 displayInList: true
 draft: false
 ---
