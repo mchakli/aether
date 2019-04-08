@@ -9,7 +9,7 @@ displayInMenu: true
 displayInList: true
 draft: false
 ---
-# Admongrel, Delivering Another Successful Addressable TV Campaign!
+
 
 Admongrel enables another successful cross device campaign!
 
@@ -21,7 +21,7 @@ In January, leading Turkish broadcasters worked with Admongrel to deliver an Add
 A great example of the future of TV advertising, linking the big screen to mobile and desktop activity.
 By providing the infrastructure for the project and working with its Broadcast partners,  Admongrel was able to optimize delivery of the campaign to the TV screens in a smooth and consistent manner, without interfering with the viewing experience.
 
-![BMW Campaign](/img/bm3.png)
+![BMW Campaign](/img/bmw3.png)
 
 During the  campaign viewers were asked to share their mobile numbers. Subsequently they were called by their local BMW sales center to organize test drives and follow up.
 
