@@ -1,11 +1,11 @@
 baseurl = "https://jovial-pasteur-e3b9cf.netlify.com/"
-title = "Hugo Themes - aether"
-author = "Joe Hutchinson"
+title = "Admongrel Blog"
+author = "Admongrel"
 canonifyurls = true
 paginate = 3
 theme = "aether"
 
 [params]
-brand = "aether"
-description = "aether Hugo theme for blogs"
+brand = "Admongrel"
+description = "Admongrel Blog"
 bgimg = "img/ignasi_pattern_s.png"
