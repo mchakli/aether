@@ -4,19 +4,15 @@ date: 2019-03-08T16:16:35-05:00
 description: "Admongrel enables another successful cross device campaign!"
 categories: ["Admongrel"]
 featuredImage: "img/bmw.png"
-dropCap: true
+dropCap: false
 displayInMenu: true
 displayInList: true
 draft: false
 ---
 
-
-Admongrel enables another successful cross device campaign!
-
+In January, leading Turkish broadcasters worked with Admongrel to deliver an Addressable TV project for Borusan Otomotiv. The campaign saw 63% increase in response rates and enabled the company to collect detailed customer information directly from the TV screen. Delivering the content without degrading the viewer experience was key to the success of the campaign.
 
 ![BMW Campaign](/img/bmw2.png)
-
-In January, leading Turkish broadcasters worked with Admongrel to deliver an Addressable TV project for Borusan Otomotiv. The campaign saw 63% increase in response rates and enabled the company to collect detailed customer information directly from the TV screen. Delivering the content without degrading the viewer experience was key to the success of the campaign.
 
 A great example of the future of TV advertising, linking the big screen to mobile and desktop activity.
 By providing the infrastructure for the project and working with its Broadcast partners,  Admongrel was able to optimize delivery of the campaign to the TV screens in a smooth and consistent manner, without interfering with the viewing experience.

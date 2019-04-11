@@ -1,5 +1,5 @@
 ---
-title: "Admongrel"
+title: ""
 date: 2018-04-27T09:46:15-04:00
-description: "Blog of Admongrel LLC"
+description: "Latest News & Insights About Addressable TV Industry"
 ---

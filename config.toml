@@ -8,4 +8,4 @@ theme = "aether"
 [params]
 brand = "Admongrel"
 description = "Admongrel Blog"
-bgimg = "img/ignasi_pattern_s.png"
+bgimg = "img/bg.png"
